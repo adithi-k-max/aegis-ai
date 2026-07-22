@@ -1,0 +1,6 @@
+{
+  "name": "AEGIS AI",
+  "description": "Enterprise Industrial Safety Intelligence Platform with Digital Twin, Multi-Agent AI, and Compound Risk Engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
